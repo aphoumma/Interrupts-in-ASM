@@ -1,1 +1,1 @@
-# Interrupts_lab3
+This project is to demonstrate how interrupts work in assembly language. The instruction set used was for the PIC12F1572 microcontroller. The goal is to create an interrupt service routine that will allow for 500ms to pass before toggling the output of an LED at the RA5 output pin. 
