@@ -74,7 +74,7 @@ FOREGROUND_LOOP
 
     
     
- ISR
+ISR
     ;first need to clear interrupt flag
     BANKSEL PIR1
     BCF PIR1, TMR2IF	;clears timer2 interrupt flag 
